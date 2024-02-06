@@ -1,0 +1,1 @@
+print("Vlad Marchenko, IPZ-3, group 8")
